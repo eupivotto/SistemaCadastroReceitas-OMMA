@@ -7,7 +7,7 @@
 
 body{
     background-color:  #FFA000;
-    background-image: url(img/bg-main.jpg);
+    background-image: url(..img/bg-main.jpg);
     
     
 }
@@ -57,7 +57,7 @@ header img{
     height: 300px;
     padding-top: 20px;
     padding-bottom: 20px;
-    background-image: url(img/bg-form.jpg);
+    background-image: url(..img/bg-form.jpg);
     border-radius: 10px;
     box-shadow: 0px 6px 27px 0px rgba(0,0,0,0.47);
     -webkit-box-shadow: 0px 6px 27px 0px rgba(0,0,0,0.47);
@@ -165,7 +165,7 @@ input[type="number"]{
     justify-content: center;
     width: 1000px;
     height: 450px;
-    background-image: url(img/bg-container.jpg);
+    background-image: url(..img/bg-container.jpg);
     border-radius: 10px;
     box-shadow: 0px 6px 27px 0px rgba(0,0,0,0.47);
     -webkit-box-shadow: 0px 6px 27px 0px rgba(0,0,0,0.47);
